@@ -1,0 +1,42 @@
+img {
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#main {
+    margin: 30 px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: beige;
+    }
+h1 {
+    text-align: center;
+    font-size: 300%;
+    font-weight: bolder;
+    padding: 40px;
+
+}
+ul {
+    font-family: sans-serif;
+    font-size: 16px;
+    justify-content: center;
+    margin: 70px 250px 70px 250px;
+}
+h2{
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+li {
+    margin: 16px 0;
+
+    display: list-item;
+    text-align: -webkit-match-parent;
+
+    font-weight: 250;
+}
